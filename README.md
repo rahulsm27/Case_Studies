@@ -1,4 +1,4 @@
-# CASE STUDY 1 -> 1 Aerofit
+# CASE STUDY 1 -> Aerofit
 
 Data analysis using EDA and Probabilities for Customer Characteristics for a treadmill company
 
