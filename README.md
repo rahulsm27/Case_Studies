@@ -1,10 +1,10 @@
-# CASE STUDY 1  -> 1_Aerofit
+# CASE STUDY 1 -> 1 Aerofit
 
-Data anlaysis using EDA and Probabilities for Customer Characteristics for a treadmil comapny
+Data analysis using EDA and Probabilities for Customer Characteristics for a treadmill company
 
-## Business Problem: 
+## Business Problem:
 
-The market research team at AeroFit wants to identify the characteristics of the target audience for each type of treadmill offered by the company, to provide a better recommendation of the treadmills to new customers. The team decides to investigate whether there are differences across the product with respect to customer characteristics.
+The market research team at AeroFit wants to identify the characteristics of the target audience for each type of treadmill offered by the company, to provide a better recommendation of the treadmills to new customers. The team decides to investigate whether there are differences across the product concerning customer characteristics.
 
 ## Data Description
 The company collected data on individuals who purchased a treadmill from the AeroFit stores during the prior three months. The dataset in aerofit_treadmill_data.csv has the following features:
@@ -23,4 +23,4 @@ Miles - the average number of miles the customer expects to walk/run each week
 ## Solution:
 
 1. Used various charts to draw insights into customer profile
-2. Computed conditional and marginal probabilites to draw insights 
+2. Computed conditional and marginal probabilities to draw insights
