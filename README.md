@@ -26,7 +26,7 @@
 
 --------------------------------------------------------------
 
-## CASE STUDY 3 -> Marketing Campaign Results
+## CASE STUDY 3 -> Marketing Campaign Results (Type : Data Analysis)
 
 - Analysis of customer data to determine the effectiveness of marketing campaign results
 
@@ -37,7 +37,7 @@
 
 --------------------------------------------------------------
 
-## CASE STUDY 4 -> Insights from Failed Orders for a taxi company
+## CASE STUDY 4 -> Insights from Failed Orders for a taxi company (Type : Data Analysis)
 
 - Investigate reasons for orders that were not completed successfully, i.e., the customer didn't end up getting a car.
 
@@ -51,12 +51,19 @@
 
 ---------------------------------------------------------------
 
-## CASE STUDY  -> 
+## CASE STUDY 5  ->  LinkFire (Type : Data Analysis)
+
+- Click Rate analysis
+
+- Level : Easy
+
+- Read the README.md file in the case study folder for details
+
 
 
 --------------------------------------------------------------
 
-## CASE STUDY  -> 
+## CASE STUDY 6  ->  No Broker (Type : Regression)
 
 
 
