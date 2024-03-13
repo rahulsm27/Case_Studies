@@ -65,6 +65,12 @@
 
 ## CASE STUDY 6  ->  No Broker (Type : Regression)
 
+- House Price Prediction. To predict number of interaction that a property will recieve in 5 days or 7 days when listed on the nobroker portal
+
+- Level : Hard
+
+- Read the README.md file in the case study folder for details
+
 
 
 ---------------------------------------------------------------
